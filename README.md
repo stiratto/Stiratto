@@ -8,7 +8,7 @@
  █▀█ █      
  █░█ █
  
-  <kbd><img src="https://user-images.githubusercontent.com/115959425/205518125-f8066db7-1a08-481c-8bb3-fef239c9ae61.gif" width="400"/></kdb> 
+ <kbd><img src="https://user-images.githubusercontent.com/115959425/205522906-243644b9-04de-468a-ad07-0295a22654be.gif" width="400"/></kdb> 
 
 █░█ █
 █▀█ █      
@@ -83,4 +83,27 @@ Hi! I'm a teenager very interested on programming, I'm currently doing Frontend 
         <img src="https://user-images.githubusercontent.com/115959425/205521510-d7bf8111-8a89-497f-9510-97ce48cc7dd0.png" width="140"/>
         </a>
 </div>
+  
 
+  
+                   
+<div align="center">
+      
+ █░█ █
+ █▀█ █      
+ █░█ █
+ █▀█ █      
+ █░█ █
+ 
+  <kbd><img src="https://user-images.githubusercontent.com/115959425/205522962-f1b24c37-bd72-40f0-b63c-b64e9b48c4aa.gif" width="400"/></kdb> 
+
+█░█ █
+█▀█ █      
+█░█ █
+█▀█ █      
+█░█ █
+ 
+</div>
+
+  
+ 
