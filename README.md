@@ -78,7 +78,7 @@ Hi! I'm a teenager very interested on programming, I'm currently doing Frontend 
 
 
 <div align="center">
-<h3>If you like what i do, do you want to support me?</h3>
+<h3>If you like what i do, would you like to support me?</h3>
         <a href="https://www.buymeacoffee.com/jesusdavidJ">
         <img src="https://user-images.githubusercontent.com/115959425/205521510-d7bf8111-8a89-497f-9510-97ce48cc7dd0.png" width="140"/>
         </a>
