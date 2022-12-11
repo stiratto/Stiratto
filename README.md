@@ -1,109 +1,55 @@
 
                   
 <div align="center">
-      
- █░█ █
- █▀█ █      
- █░█ █
- █▀█ █      
- █░█ █
- 
- <kbd><img src="https://user-images.githubusercontent.com/115959425/205522906-243644b9-04de-468a-ad07-0295a22654be.gif" width="400"/></kdb> 
-
-█░█ █
-█▀█ █      
-█░█ █
-█▀█ █      
-█░█ █
- 
+  
+<img src="https://user-images.githubusercontent.com/115959425/206931161-bb2d0274-9397-4905-a300-1cfcc42132c1.gif" width="906" height="506"/>
+  
 </div>
 
-<h1>About Me <kbd> <img src="https://user-images.githubusercontent.com/115959425/205517735-c9eb27be-54dd-44a9-bf94-a55a200319d0.gif" width="40" height="35" /> </kbd></h6> 
-Hi! I'm a teenager very interested on programming, I'm currently doing Frontend but learning Backend too. 👩‍💻
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&color=F700ED&center=true&multiline=true&width=500&height=100&lines=Hi%2C+I'm+Stiratto;CyberSecurity+Enthusiast" />
+  
+</div>
 
-- 🇻🇪 I currently live in Venezuela, I spent 5 years in Colombia.
-
-- 🎶 I love hear music while doing anything, especially Jazz and Blues.
-
-- 🖥 You can see my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/Stiratto).
-
-- 👥 I am looking for someone with whom to share and help us.
-
-<h1>Contact me here <kbd><img src="https://user-images.githubusercontent.com/115959425/205518361-4e4b0c18-155a-49c9-ab91-a7d26bd2927b.gif" width="40"/></kbd></h1>
-
-<table>
-
-- [DevTo](https://dev.to/stiratto) 
-
-- [Twitter](https://twitter.com/StirattoM)
-</table>
-
-
-
-<h1>Skills and Tools</h1>
 <div>
- <h4>Already Mastered</h4>      
-<img src="https://user-images.githubusercontent.com/115959425/205518608-871b1396-26a0-42a2-855d-7c1b599ae8bd.svg"/>    
-<img src="https://user-images.githubusercontent.com/115959425/205518645-d13f6f3c-6d01-4496-8c9f-5c5a7fe90b88.svg"/>    
+<h2>About Me<h2>
+  
+  - Very interested on CyberSecurity
+  - 
+  
 
-<h4>Currently Learning</h4>
-<img src="https://user-images.githubusercontent.com/115959425/205518750-1fca5598-6c6a-44d1-aa0a-a033bbdf224e.svg"/>    
-<img src="https://user-images.githubusercontent.com/115959425/205518793-304ebc40-49e6-4fab-9ca7-d1594c825edc.svg"/>    
+</div>
 
-<h4>Tools</h4>
-<img src="https://user-images.githubusercontent.com/115959425/205519352-125287e7-379a-4890-8b06-8a62f46e6394.svg"/>
+
+<h2>Languages and Tools</h2>
+<div>
+
+<img src="https://user-images.githubusercontent.com/115959425/206931529-76cb8cef-0c65-4cd3-a2a2-5d428ca65e6a.svg" width="35" />
+<img src="https://user-images.githubusercontent.com/115959425/206931569-ef9a1497-6750-486e-9ea7-5d267da68e1f.svg" width="35"/>
+<img src="https://user-images.githubusercontent.com/115959425/206931718-6627b857-2f21-4063-b81f-cfca78fa4905.svg" width="35"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35"/>
+
+
 </div>
 
 
 
+ 
+  
+                   
+<h2>Contact me here </h2>
 
-<div>
-<h1>Links</h1>
+<a href="https://dev.to/stiratto">
+<img src="https://user-images.githubusercontent.com/115959425/206934603-b15f8438-6da2-4a26-b539-abdb1ee0c673.png" width="35"/>
+</a>
 
-
-<div>
-<a href="https://www.instagram.com/yisusxxorro/">
-<img src="https://user-images.githubusercontent.com/115959425/205520189-db51c7c9-e124-40f5-876e-08099aa99d9e.png" />  
+<a href="https://twitter.com/StirattoM">
+ <img src="https://user-images.githubusercontent.com/115959425/206934639-6fd8cd4d-a883-4c9b-9b38-435ab33fdc3c.png" width="35"/>
 </a>
 
 <a href="https://github.com/Stiratto">
-<img src="https://user-images.githubusercontent.com/115959425/205520372-e88c4796-1890-4bd9-9179-2756e56be179.png"/>
+<img src="https://user-images.githubusercontent.com/115959425/206934742-a03a97c7-8032-460d-a290-124c4080d581.png" width="35"/>
 </a>
-
-<a href="https://dev.to/stiratto">
-<img src="https://user-images.githubusercontent.com/115959425/205520490-261822cc-77bd-4e5f-8785-d126d5509162.png" />
-</a>
-</div>
-
-
-
-<div align="center">
-<h3>If you like what i do, would you like to support me?</h3>
-        <a href="https://www.buymeacoffee.com/jesusdavidJ">
-        <img src="https://user-images.githubusercontent.com/115959425/205521510-d7bf8111-8a89-497f-9510-97ce48cc7dd0.png" width="140"/>
-        </a>
-</div>
-  
-
-  
-                   
-<div align="center">
-      
- █░█ █
- █▀█ █      
- █░█ █
- █▀█ █      
- █░█ █
- 
-  <kbd><img src="https://user-images.githubusercontent.com/115959425/205522962-f1b24c37-bd72-40f0-b63c-b64e9b48c4aa.gif" width="400"/></kdb> 
-
-█░█ █
-█▀█ █      
-█░█ █
-█▀█ █      
-█░█ █
- 
-</div>
-
   
  
