@@ -1,8 +1,5 @@
 
-                  
-<div align="center">
-<img src="https://tenor.com/view/geohot-george-hotz-rap-gif-26031694.gif" width="906" height="450"/>
-</div>
+
 
 <div align="center">
   
