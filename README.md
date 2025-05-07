@@ -7,20 +7,4 @@
   
 </div>
 
-<div align="left">
-  <ul>
-    <li>
-      I feel smart knowing Perl regular patterns. I know Typescript, Javascript, Java, Springboot, bla bla bla.    
-    </li>
-    <li>
-      I use Arch... (Endeavour OS, heh).
-    </li>
-    <li>
-      I know Linux?...
-    </li>
-    <li>
-      I know Networking (just did 2 courses on Cisco lol)
-    </li>
-My ass will probably get replaced by AI, **ALL OF US WILL**.
-  </ul>
-</div>
+
