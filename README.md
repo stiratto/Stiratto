@@ -7,4 +7,10 @@
   
 </div>
 
-AI will probably take my job, I'm serious, I may go and work as a prostitute.
+<div align="center">
+I feel smart knowing Perl regular patterns. I know Typescript, Javascript, Java, Springboot, bla bla bla.
+I use Arch... (Endeavour OS, heh).
+I know Linux?...
+I know Networking (just did 2 courses on Cisco lol)
+My ass will probably get replaced by AI, **ALL OF US WILL**.
+</div>
