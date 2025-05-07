@@ -7,7 +7,7 @@
   
 </div>
 
-<div align="center">
+<div align="left">
   <ul>
     <li>
       I feel smart knowing Perl regular patterns. I know Typescript, Javascript, Java, Springboot, bla bla bla.    
